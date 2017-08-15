@@ -1,5 +1,5 @@
 {
-  "name": "path-to-regexp-es6",
+  "name": "@basaltjs/path-to-regexp-es6",
   "description": "Express style path to RegExp utility",
   "version": "1.7.0",
   "main": "index.js",
